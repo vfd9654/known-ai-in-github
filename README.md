@@ -10,6 +10,6 @@
 
 ## Example
 
-`Co-authored-by: ChatGPT <codex@openai.com>
-Co-authored-by: Claude <claude@anthropic.com>
-Co-authored-by: VercelAI <v0@vercel.com>`
+`Co-authored-by: ChatGPT <codex@openai.com>`
+`Co-authored-by: Claude <claude@anthropic.com>`
+`Co-authored-by: VercelAI <v0@vercel.com>`
